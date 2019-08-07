@@ -10,7 +10,7 @@ Original HAR dataset:
 Reyes-Ortiz, Anguita, Ghio, Oneto.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-==================================================================
+==================================================================+
 
 
 The Human Activity Recognition (HAR) dataset shows the results of experiments in which 30 volunteers performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, laying) while wearing a smartphone that recorded acceleration and angular velocity.  Each subject performed each activity multiple times. For more information, please visit the SmartLab website: www.smartlab.ws
